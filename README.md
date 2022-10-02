@@ -1,2 +1,2 @@
-# freecodecamp-periodic-table-database
-This is one of the projects required to earn the freeCodeCamp Relational Databases certification. I fixed some mistakes in the database and wrote a small bash program to retrieve chemical element information from a periodic table database. 
+# Periodic Table Database (freecodecamp project)
+This is one of the projects required to earn the freeCodeCamp Relational Databases certification. I fixed some mistakes in the database and wrote a small bash program to retrieve chemical element information from a periodic table database. I also learned how to keep track of all the changes I made to the file because the code must be version controlled with git.
